@@ -4,7 +4,9 @@ a simple script to log the insertion of USB devices with all the possible meta-d
 
 - Install Rust: https://www.rust-lang.org/tools/install
 
-- Install the rust-usb crate: `cargo install usb`
+- Install the rust-usb crate:
+  `cargo install usb`
+  `cargo install notify-rust`
 
 To compile: `rustc usb_watcher_mdfetcher.rs`
 

@@ -1,3 +1,5 @@
+Note: This is an experimental playground. Don't use this code unless you know what you're doing.
+
 # usb_watcher
 a simple script to log the insertion of USB devices with all the possible meta-data and timestamp
 
